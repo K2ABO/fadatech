@@ -1,0 +1,31 @@
+@media only screen and (max-width:990px) {
+    .home_title {
+        display: none;
+    }
+}
+body{
+    background-color: rgb(248, 245, 245);
+    margin: 0;
+    padding: 0;
+}
+nav{
+    border-bottom: 3px rgb(76, 175, 84) solid;
+    background-color: rgba(100, 97, 97, 0.548);
+}
+img { 
+    
+    height: 1070px;
+    width: 700px;
+}
+
+.card-img-overlay{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(85, 85, 85, 0.466);
+}
+
+
+.fas {
+    font-size: 2rem;
+    padding-right: 1.2rem;
+}
